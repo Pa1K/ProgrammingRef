@@ -1,6 +1,9 @@
 course reference regarding skills:
 https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee
 https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+ 
+freelancing 
+https://www.freecodecamp.org/news/how-to-start-freelancing/
 
 
 https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/
@@ -22,8 +25,28 @@ UI
 https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/
 diff b.w UI and UX: https://www.freecodecamp.org/news/ui-ux-design-guide/
 
-HTML, CSS, Sass, BootStrap 5
+HTML, CSS, Sass, BootStrap 5, JS
 https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/
+https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/
+
+
+JavaScript
+https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/
+https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/
+https://www.freecodecamp.org/news/full-javascript-course-for-beginners/
+https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/
+https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+
+JavaScript + HTML
+https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/
+
+TypeScript
+https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+
+Node.js
+https://www.codecademy.com/learn/learn-node-js
 
 React
 https://www.freecodecamp.org/news/react-and-googlesheets/
@@ -35,22 +58,6 @@ This in-depth React course will teach you all about front end development with o
 You'll learn Styled Components, React Router, State and Props, Hooks, and even some TypeScript. 
 You'll also deploy your app to the cloud. (7 hour YouTube course): 
 https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/
-
-JavaScript
-https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/
-https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/
-https://www.freecodecamp.org/news/javascript-projects-for-beginners/
-https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/
-https://www.freecodecamp.org/news/full-javascript-course-for-beginners/
-
-JavaScript + HTML
-https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/
-
-TypeScript
-https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
-
-Node.js
-https://www.codecademy.com/learn/learn-node-js
 
 API/MicroServices
 https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/
@@ -82,9 +89,11 @@ cassandra
 https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
 
 GIT
+https://www.freecodecamp.org/news/git-for-professionals/
 https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
 https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus
 https://www.freecodecamp.org/news/how-git-branches-work/
+
 
 https://www.upsidedowntext.com/
 
